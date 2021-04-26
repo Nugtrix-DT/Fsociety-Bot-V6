@@ -1,4 +1,3 @@
-const lolcatjs = require('lolcatjs')
 lolcatjs.options.colors = true;
 lolcatjs.fromString('[INFO] Suscribete a mi canal:3 Samu330')
 lolcatjs.fromString('[SYSTEM] NyanBot INICIANDOSE...')
